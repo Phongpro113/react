@@ -1,9 +1,11 @@
 import "./App.css";
-import Game from './components/titactoe/Game';
+import Card from "./components/card/Card";
 
 function App() {
   return (
-    <Game/>
+    <div>
+      <Card></Card>
+    </div>
   );
 }
 

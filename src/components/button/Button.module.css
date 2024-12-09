@@ -1,0 +1,10 @@
+.button{
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    width: 200px;
+    border-radius: 10px;
+}
+.buttonSecondary {
+    background-color: red;
+}
